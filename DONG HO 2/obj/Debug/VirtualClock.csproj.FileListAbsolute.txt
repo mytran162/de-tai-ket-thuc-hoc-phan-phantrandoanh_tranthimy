@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\bin\Debug\VirtualClock.exe
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\bin\Debug\VirtualClock.pdb
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.AlarmControl.resources
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.AlarmDialog.resources
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.Form1.resources
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.exe
+C:\Users\Admin\Downloads\Compressed\[Sharecode.vn] Code dong ho dat lich bao thuc C#\[Sharecode.vn] Code dong ho dat lich bao thuc C#\VirtualClockMG\obj\Debug\VirtualClock.pdb
