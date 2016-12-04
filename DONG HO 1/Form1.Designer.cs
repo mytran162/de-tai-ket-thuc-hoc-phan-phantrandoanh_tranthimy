@@ -47,9 +47,9 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(86, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(72, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 79);
+            this.pictureBox1.Size = new System.Drawing.Size(160, 118);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -57,9 +57,9 @@
             // 
             // b1
             // 
-            this.b1.Location = new System.Drawing.Point(276, 101);
+            this.b1.Location = new System.Drawing.Point(242, 133);
             this.b1.Name = "b1";
-            this.b1.Size = new System.Drawing.Size(75, 23);
+            this.b1.Size = new System.Drawing.Size(84, 23);
             this.b1.TabIndex = 1;
             this.b1.Text = "Browse";
             this.b1.UseVisualStyleBackColor = true;
@@ -67,9 +67,9 @@
             // 
             // b2
             // 
-            this.b2.Location = new System.Drawing.Point(12, 149);
+            this.b2.Location = new System.Drawing.Point(-5, 176);
             this.b2.Name = "b2";
-            this.b2.Size = new System.Drawing.Size(75, 23);
+            this.b2.Size = new System.Drawing.Size(84, 23);
             this.b2.TabIndex = 2;
             this.b2.Text = "Start";
             this.b2.UseVisualStyleBackColor = true;
@@ -77,9 +77,9 @@
             // 
             // b3
             // 
-            this.b3.Location = new System.Drawing.Point(229, 154);
+            this.b3.Location = new System.Drawing.Point(242, 176);
             this.b3.Name = "b3";
-            this.b3.Size = new System.Drawing.Size(75, 23);
+            this.b3.Size = new System.Drawing.Size(84, 23);
             this.b3.TabIndex = 3;
             this.b3.Text = "Stop";
             this.b3.UseVisualStyleBackColor = true;
@@ -88,34 +88,40 @@
             // T_now
             // 
             this.T_now.AutoSize = true;
-            this.T_now.Location = new System.Drawing.Point(117, 159);
+            this.T_now.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.T_now.Location = new System.Drawing.Point(97, 159);
             this.T_now.Name = "T_now";
-            this.T_now.Size = new System.Drawing.Size(49, 13);
+            this.T_now.Size = new System.Drawing.Size(88, 24);
             this.T_now.TabIndex = 4;
             this.T_now.Text = "00:00:00";
+            this.T_now.Click += new System.EventHandler(this.T_now_Click);
             // 
             // T_set
             // 
             this.T_set.AutoSize = true;
-            this.T_set.Location = new System.Drawing.Point(117, 187);
+            this.T_set.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.T_set.Location = new System.Drawing.Point(97, 205);
             this.T_set.Name = "T_set";
-            this.T_set.Size = new System.Drawing.Size(49, 13);
+            this.T_set.Size = new System.Drawing.Size(88, 24);
             this.T_set.TabIndex = 5;
             this.T_set.Text = "00:00:00";
             this.T_set.Click += new System.EventHandler(this.T_set_Click);
             // 
             // mtb
             // 
-            this.mtb.Location = new System.Drawing.Point(115, 214);
+            this.mtb.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mtb.Location = new System.Drawing.Point(49, 256);
             this.mtb.Mask = "00:00:00";
             this.mtb.Name = "mtb";
-            this.mtb.Size = new System.Drawing.Size(51, 20);
+            this.mtb.Size = new System.Drawing.Size(159, 29);
             this.mtb.TabIndex = 6;
+            this.mtb.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.mtb.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.mtb_MaskInputRejected);
             // 
             // textBox1
             // 
             this.textBox1.Enabled = false;
-            this.textBox1.Location = new System.Drawing.Point(57, 104);
+            this.textBox1.Location = new System.Drawing.Point(49, 136);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(183, 20);
             this.textBox1.TabIndex = 7;
@@ -133,10 +139,10 @@
             // Media
             // 
             this.Media.Enabled = true;
-            this.Media.Location = new System.Drawing.Point(214, 214);
+            this.Media.Location = new System.Drawing.Point(242, 205);
             this.Media.Name = "Media";
             this.Media.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("Media.OcxState")));
-            this.Media.Size = new System.Drawing.Size(90, 35);
+            this.Media.Size = new System.Drawing.Size(118, 80);
             this.Media.TabIndex = 8;
             // 
             // Form1

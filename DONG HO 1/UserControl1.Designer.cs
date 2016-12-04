@@ -28,57 +28,38 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnPlay = new System.Windows.Forms.Button();
-            this.btnstop = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.SuspendLayout();
             // 
-            // btnPlay
+            // timer1
             // 
-            this.btnPlay.Location = new System.Drawing.Point(45, 99);
-            this.btnPlay.Name = "btnPlay";
-            this.btnPlay.Size = new System.Drawing.Size(75, 23);
-            this.btnPlay.TabIndex = 0;
-            this.btnPlay.Text = "Play";
-            this.btnPlay.UseVisualStyleBackColor = true;
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // btnstop
+            // dateTimePicker1
             // 
-            this.btnstop.Location = new System.Drawing.Point(170, 99);
-            this.btnstop.Name = "btnstop";
-            this.btnstop.Size = new System.Drawing.Size(75, 23);
-            this.btnstop.TabIndex = 1;
-            this.btnstop.Text = "Stop";
-            this.btnstop.UseVisualStyleBackColor = true;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(85, 58);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "label1";
+            this.dateTimePicker1.Location = new System.Drawing.Point(3, 34);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(112, 20);
+            this.dateTimePicker1.TabIndex = 0;
             // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnstop);
-            this.Controls.Add(this.btnPlay);
+            this.Controls.Add(this.dateTimePicker1);
             this.Name = "UserControl1";
-            this.Size = new System.Drawing.Size(337, 150);
             this.Load += new System.EventHandler(this.UserControl1_Load);
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.UserControl1_Paint);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnPlay;
-        private System.Windows.Forms.Button btnstop;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
     }
 }

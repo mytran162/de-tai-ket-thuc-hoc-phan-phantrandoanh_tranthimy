@@ -23,4 +23,4 @@ E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.csprojResolveAssemblyReference
 E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.Form1.resources
 E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.Properties.Resources.resources
 E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.csproj.GenerateResource.Cache
-E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.UserControl1.resources
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.ArmclockControl1.resources

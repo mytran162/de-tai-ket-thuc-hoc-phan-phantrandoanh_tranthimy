@@ -142,6 +142,16 @@ namespace moi
 
         }
 
+        private void mtb_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void T_now_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void b2_Click(object sender, EventArgs e)
          {
              T_set.Text = mtb.Text;
