@@ -1,0 +1,26 @@
+D:\hocvietcode\moi\moi\bin\Debug\moi.exe
+D:\hocvietcode\moi\moi\bin\Debug\moi.pdb
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.Form1.resources
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.Properties.Resources.resources
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.csproj.GenerateResource.Cache
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.exe
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.pdb
+D:\hocvietcode\moi\moi\bin\Debug\Interop.WMPLib.dll
+D:\hocvietcode\moi\moi\bin\Debug\AxInterop.WMPLib.dll
+D:\hocvietcode\moi\moi\obj\x86\Debug\Interop.WMPLib.dll
+D:\hocvietcode\moi\moi\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\hocvietcode\moi\moi\obj\x86\Debug\moi.csproj.ResolveComReference.cache
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\Interop.WMPLib.dll
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.csproj.ResolveComReference.cache
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.exe
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.pdb
+E:\HOC TAP TRUONG\LTNangcao\moi\bin\Debug\moi.exe
+E:\HOC TAP TRUONG\LTNangcao\moi\bin\Debug\moi.pdb
+E:\HOC TAP TRUONG\LTNangcao\moi\bin\Debug\Interop.WMPLib.dll
+E:\HOC TAP TRUONG\LTNangcao\moi\bin\Debug\AxInterop.WMPLib.dll
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.csprojResolveAssemblyReference.cache
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.Form1.resources
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.Properties.Resources.resources
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.csproj.GenerateResource.Cache
+E:\HOC TAP TRUONG\LTNangcao\moi\obj\x86\Debug\moi.UserControl1.resources
